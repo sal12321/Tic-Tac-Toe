@@ -1,5 +1,3 @@
-# Tic-Tac-Toe
-🕹️ Tic Tac Toe – Classic Game in the Browser  A simple and responsive Tic Tac Toe (X and O) web app built using HTML, CSS, and JavaScript. Playable on desktop and mobile devices, this game offers a clean UI, smooth interactivity, and instant results.
 <h3 align="center">Hello there, I'm Aaqib 👋</h3>
 
 <h5 align="center">
@@ -11,126 +9,111 @@
 </h5>
 
 <p align="center">
-  Hi, I'm Aaqib, a Computer Engineering student & aspiring Software Developer from India.<br>
-  <br>
+  Hi, I'm Aaqib, a Computer Engineering student & aspiring Software Developer from India.<br><br>
   🎓 Graduating from Amity University, Computer Engineering Department.<br>
   💻 Passionate about writing clean, maintainable code<br>
   🔬 Currently working on Java Development and Web Projects<br>
   📚 Building real-world applications to enhance my skills<br>
-  💬 Ask me anything <a href="https://github.com/sal12321/musicPlayer/issues" title="Issues">here</a><br>
+  💬 Ask me anything <a href="https://github.com/sal12321/Tic-Tac-Toe/issues" title="Issues">here</a><br>
   📫 Reach me at: <a href="mailto:aaqibalam291@gmail.com">aaqibalam291@gmail.com</a>
 </p>
 
-<h3 align="center">🎬 Demo Video</h3>
+---
+
+# ❌⭕ Tic Tac Toe – Web App (HTML/CSS/JS)
+
+A simple and fully responsive browser-based Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. Designed for two players to compete and have fun on any device.
+
+---
+
+### 💡 Key Features
+
+- 👨‍👩‍👧 2-player mode with real-time turn switching  
+- 🧠 Smart win detection and draw condition  
+- ✨ Winning combination highlight
+-  🎵 Background music and sound effects 
+- 🔄 Game restart option  
+- 📱 Responsive design (mobile + desktop support)
+
+---
+
+### 🚀 How to Play
+
+1. Clone this repo or download the ZIP  
+2. Open `index.html` in your browser  
+3. Click on any box to place your symbol (X or O)  
+4. First player to get 3 in a row wins!
+
+---
+
+<h2 align="center">🕹️ Tic-Tac-Toe Game Preview</h2>
+
+<p align="center">Below are screenshots showcasing different stages of the game:</p>
+
+---
+
+<h3 align="center">🆕 Game Start – Empty Grid</h3>
 
 <p align="center">
-  <a href="https://github.com/sal12321/Music-Player/blob/main/video/musicPlayerSR.mp4" target="_blank">
-    <img src="https://raw.githubusercontent.com/sal12321/images/main/aaqibAlam/images/video-preview.png" width="600" alt="Watch Video Demo" />
-  </a>
+  <img src="https://raw.githubusercontent.com/sal12321/Tic-Tac-Toe/main/images/img2.png" width="600" alt="Tic Tac Toe Game Start">
 </p>
+
+---
+
+<h3 align="center">🌀 Mid Game – X's Turn</h3>
 
 <p align="center">
-  📺 Click the image above to watch a demo of the Music Player Web App in action.
+  <img src="https://raw.githubusercontent.com/sal12321/Tic-Tac-Toe/main/images/img2.png" width="600" alt="Tic Tac Toe Mid Game X Turn">
 </p>
 
+---
+
+<h3 align="center">🏆 Game Over – X Wins!</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sal12321/Tic-Tac-Toe/main/images/img3.png" width="600" alt="Tic Tac Toe X Wins">
+</p>
+
+
+
+<p align="center">
+  🎮 Click the image above to play the game online via GitHub Pages.
+</p>
 
 ---
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
-  <img title="Java" height="30" src="https://raw.githubusercontent.com/sal12321/images/main/aaqibAlam/images/java-original.svg">&nbsp;&nbsp;
   <img title="HTML" height="30" src="https://raw.githubusercontent.com/sal12321/images/main/aaqibAlam/images/html5.svg">&nbsp;&nbsp;
   <img title="CSS" height="30" src="https://raw.githubusercontent.com/sal12321/images/main/aaqibAlam/images/css.svg">&nbsp;&nbsp;
-  <img title="JavaScript" height="30" src="https://raw.githubusercontent.com/sal12321/images/main/aaqibAlam/images/javascript.svg">&nbsp;&nbsp;
-  <img title="Python" height="30" src="https://raw.githubusercontent.com/sal12321/images/main/aaqibAlam/images/python-original.svg">&nbsp;&nbsp;
-  <img title="JSON" height="30" src="https://raw.githubusercontent.com/sal12321/images/main/aaqibAlam/images/json.svg">
-</p>
-
----
-
-# 🎵 Music Player – Web App (HTML/CSS/JS)
-
-A modern, interactive music player web app that allows users to **select and play songs directly from their local disk** — all in the browser.
-
-### 💡 Key Features
-
-- 🔍 **Custom File Loader** — Choose any `.mp3` or `.wav` file from your local disk  
-- 🎧 **Play/Pause Audio** — Instantly control playback of your selected track  
-- 📝 **Dynamic Song Name Display** — Shows the current file name in a styled UI  
-- 🎨 **Responsive UI** — Built with modern design principles using HTML/CSS  
-
----
-
-### 🚀 How to Use
-
-1. **Clone** the repository or download as a ZIP  
-2. Open `index.html` in your browser  
-3. Use the **bottom-left file picker** to select a song  
-4. Click **Play** and enjoy your music!
-
----
-
-### 🖼️ Screenshot
-
-
-<h2 align="center">🖼️ Project Preview</h2>
-
-<p align="center">A quick look at the user interface of the Music Player Web App</p>
-<h3 align="center">🎬 Main Page UI Preview</h3>
-<p align="center">
-  <img src="./images/musicPlayerMainPage.png" width="600" alt="Music Player UI Screenshot">
-</p>
-
-
-<h3 align="center">🔐 Login Page Preview</h3>
-
-<p align="center">
-  Simple and clean login form for accessing your music player dashboard.
-</p>
-<p align="center">
-  <img src="./images/LoginPage.png" width="600" alt="Music Player UI Screenshot">
-</p>
-
-<h3 align="center">📝 Signup Page Preview</h3>
-
-<p align="center">
-  User-friendly registration form to create a new account in seconds.
-</p>
-
-<p align="center">
-  <img src="./images/signUpPage.png" width="600" alt="Music Player UI Screenshot">
+  <img title="JavaScript" height="30" src="https://raw.githubusercontent.com/sal12321/images/main/aaqibAlam/images/javascript.svg">
 </p>
 
 ---
 
 ### 📂 Project Structure
 
-musicPlayer/ <br>
+Tic-Tac-Toe/ <br>
 ├── index.html<br>
 ├── style.css<br>
 ├── script.js<br>
-├── musics/ # Sample MP3 files<br>
-├── images/ # Icons and UI graphics<br>
-
-
+├── images/ <i>(optional - icons or backgrounds)</i><br>
 
 ---
 
 ### 🧠 Future Improvements
 
-- 🎛️ Add audio timeline and volume controls  
-- 💾 Save last played song using localStorage  
-- 📱 Make UI fully mobile responsive  
-- 📂 Drag-and-drop file support
+- 🤖 Add a computer player (AI opponent)  
+  
+- 📊 Display game stats like win/draw count  
+- 🌐 Multiplayer support (WebSocket-based)  
 
 ---
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/sal12321">Aaqib Alam</a>
 </p>
-
-
 
 ---
 
