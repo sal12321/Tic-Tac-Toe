@@ -55,15 +55,15 @@ A simple and fully responsive browser-based Tic Tac Toe game built using **HTML*
 <h3 align="center">🆕 Game Start – Empty Grid</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sal12321/Tic-Tac-Toe/main/images/img1.png" width="600" alt="Tic Tac Toe Game Start">
+  <img src="https://raw.githubusercontent.com/sal12321/Tic-Tac-Toe/main/images/img1.png" width="400" alt="Tic Tac Toe Game Start">
 </p>
 
 ---
 
-<h3 align="center">🌀 Mid Game – X's Turn</h3>
+<h3 align="center">🌀 Mid Game – O's Turn</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sal12321/Tic-Tac-Toe/main/images/img2.png" width="600" alt="Tic Tac Toe Mid Game X Turn">
+  <img src="https://raw.githubusercontent.com/sal12321/Tic-Tac-Toe/main/images/img2.png" width="400" alt="Tic Tac Toe Mid Game X Turn">
 </p>
 
 ---
@@ -71,7 +71,7 @@ A simple and fully responsive browser-based Tic Tac Toe game built using **HTML*
 <h3 align="center">🏆 Game Over – X Wins!</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sal12321/Tic-Tac-Toe/main/images/img3.png" width="600" alt="Tic Tac Toe X Wins">
+  <img src="https://raw.githubusercontent.com/sal12321/Tic-Tac-Toe/main/images/img3.png" width="400" alt="Tic Tac Toe X Wins">
 </p>
 
 
