@@ -55,7 +55,7 @@ A simple and fully responsive browser-based Tic Tac Toe game built using **HTML*
 <h3 align="center">🆕 Game Start – Empty Grid</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sal12321/Tic-Tac-Toe/main/images/img2.png" width="600" alt="Tic Tac Toe Game Start">
+  <img src="https://raw.githubusercontent.com/sal12321/Tic-Tac-Toe/main/images/img1.png" width="600" alt="Tic Tac Toe Game Start">
 </p>
 
 ---
@@ -79,6 +79,10 @@ A simple and fully responsive browser-based Tic Tac Toe game built using **HTML*
 <p align="center">
   🎮 Click the image above to play the game online via GitHub Pages.
 </p>
+
+## 🕹️ Play Live
+👉 [Click here to play Tic-Tac-Toe now!](https://sal12321.github.io/Tic-Tac-Toe/)
+
 
 ---
 
